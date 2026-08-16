@@ -4,7 +4,7 @@ I am a talented young developer possessing a unique blend of programming logic, 
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="300" src="https://i.pinimg.com/originals/cc/d2/16/ccd216094ef4c07e598a18afce1f570f.gif"  />
+  <img data-importer="image" height="300" src="https://i.pinimg.com/originals/cc/40/3f/cc403f0ab531e2524607396d628b478a.gif"  />
 </div>
 
 ###
