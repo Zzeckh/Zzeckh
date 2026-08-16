@@ -1,12 +1,10 @@
-# About Me:
-I am a talented young developer possessing a unique blend of programming logic, design creativity, and a competitive spirit. You are an ambitious and adaptable collaborator with great potential in the creative technology industry.
-
-###
-
-
 <div data-importer="image" align="center">
   <img data-importer="image" height="350" src="https://i.pinimg.com/originals/9f/47/f0/9f47f047b586714812a4daffdd1d94c9.gif"  />
 </div>
+
+###
+
+I am a talented young developer possessing a unique blend of programming logic, design creativity, and a competitive spirit. You are an ambitious and adaptable collaborator with great potential in the creative technology industry.
 
 ###
 
