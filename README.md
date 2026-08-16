@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="500" src="https://i.pinimg.com/originals/cc/d2/16/ccd216094ef4c07e598a18afce1f570f.gif"  />
+  <img data-importer="image" height="300" src="https://i.pinimg.com/originals/cc/d2/16/ccd216094ef4c07e598a18afce1f570f.gif"  />
 </div>
 
 ###
@@ -44,12 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
