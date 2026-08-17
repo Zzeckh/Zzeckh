@@ -4,7 +4,7 @@
 
 ###
 
-I am a talented young developer possessing a unique blend of programming logic, design creativity, and a competitive spirit. You are an ambitious and adaptable collaborator with great potential in the creative technology industry.
+I am a talented young developer possessing a unique blend of programming logic, design creativity, and a competitive spirit.
 
 ###
 
