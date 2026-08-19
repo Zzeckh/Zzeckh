@@ -1,5 +1,5 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="350" src="https://i.pinimg.com/originals/9f/47/f0/9f47f047b586714812a4daffdd1d94c9.gif"  />
+<div align="center">
+  <img height="350" src="https://i.pinimg.com/originals/9f/47/f0/9f47f047b586714812a4daffdd1d94c9.gif" />
 </div>
 
 ###
@@ -8,10 +8,10 @@ I am a talented young developer possessing a unique blend of programming logic, 
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zzeckh/Zzeckh/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zzeckh/Zzeckh/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zzeckh/Zzeckh/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zzeckh/Zzeckh/pacman-output/pacman-contribution-graph-dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zzeckh/Zzeckh/pacman-output/pacman-contribution-graph.svg?v=1">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zzeckh/Zzeckh/pacman-output/pacman-contribution-graph.svg?v=1">
 </picture>
 
 ###
